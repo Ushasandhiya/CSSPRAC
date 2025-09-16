@@ -31,6 +31,4 @@ const add = (a,b) => a+b;
     console.log(blockvar);
  }
  nnnnnnnnnnnnn
- b
- kkkkkkkkkkkkkkkkkkkk
  
